@@ -1,0 +1,20 @@
+# vars/vars_005D-21.yaml
+alumno:
+  codigo: "005D-21"
+  nombre: "Emilio Daniel Yáñez Muñoz"
+
+cliente:
+  empresa: "Editorial Austral SA"
+  hostname: "RTR-EDITAUS"
+
+router:
+  ip: "192.168.56.101"
+  usuario: "cisco"
+  password: "emilio"
+  loopback_id: 10
+  loopback_ip: "10.5.21.1"
+  loopback_mask: "255.255.255.0"
+  loopback_prefix: "24"
+  descripcion_wan: "Enlace-WAN-Tocopilla"
+  banner: "ACCESO RESTRINGIDO - EDITAUS"
+  ntp_server: "1.1.1.1"
