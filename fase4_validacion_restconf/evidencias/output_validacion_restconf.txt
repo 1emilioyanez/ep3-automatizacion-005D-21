@@ -1,0 +1,24 @@
+=== METADATOS DE EJECUCIÓN RESTCONF ===
+Script: validacion_restconf.py
+Fecha : 2026-06-22 00:27:42.196145
+Host  : labvm
+======================================
+
+Realizando peticiones API RESTCONF...
+-> Archivos JSON crudos respaldados en evidencias/responses/
+
+=== REPORTE DE AUDITORÍA DE COMPLIANCE (RESTCONF) ===
+Hostname detectado  : RTR-EDITAUS
+NTP Server detectado : 1.1.1.1
+Descripción detectada : Enlace-WAN-Tocopilla
+Loopback IP detec.   : 10.5.21.1 / 255.255.255.0
+
+Criterio Hostname Corporativo  : [OK]
+Criterio Servidor NTP          : [OK]
+Criterio Descripción WAN (GE1) : [OK]
+Criterio Dirección IP Loopback : [OK]
+Criterio Máscara Loopback      : [OK]
+
+------------------------------------------------
+RESULTADO GLOBAL: CONFORME (5/5 OK)
+------------------------------------------------
