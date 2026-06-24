@@ -35,5 +35,20 @@ El presente proyecto detalla la implementación automatizada y la auditoría de 
 | Sincronización Temporal (NTP) | NETCONF / RESTCONF | [OK] | CONFORME |
 | Segmento Loopback 10 (IP / Mask) | NETCONF / RESTCONF | [OK] | CONFORME |
 
+### Evidencias Gráficas de Respaldo
+
+#### Evidencia 1: Captura de Estado Inicial (Fase 1 - pyATS Genie)
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/64db5264-6b3e-4a0a-a21d-ff67f4ddef6e" />
+
+#### Evidencia 2: Idempotencia en el Aprovisionamiento (Fase 2 - Ansible Playbook)
+<img width="599" height="36" alt="image" src="https://github.com/user-attachments/assets/dc72952b-0331-4652-91c0-11fbfa8e1b00" />
+
+#### Evidencia 3: Auditoría del Árbol XML (Fase 3 - NETCONF Compliance)
+<img width="583" height="436" alt="image" src="https://github.com/user-attachments/assets/3af0f446-3b53-4d90-8071-e97e234d49dc" />
+
+#### Evidencia 4: Auditoría de la API JSON (Fase 4 - RESTCONF Compliance)
+<img width="541" height="429" alt="image" src="https://github.com/user-attachments/assets/e1345666-1918-4e34-b2e4-caf68e44b9e1" />
+
+
 ## 7. Conclusiones
 La automatización del ciclo de vida del dispositivo concluyó de manera exitosa. Se verificó con un 100% de efectividad la conformidad del equipo bajo dos protocolos programáticos independientes, quedando el enrutador validado de forma transparente y disponible para pasar de forma segura a operaciones de producción.
