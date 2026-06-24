@@ -1,8 +1,3 @@
-=== GENERANDO CERTIFICADO DE COMPLIANCE (FASE 5) ===
--> Certificado generado con éxito en: evidencias/certificado_compliance_005D-21.txt
-
-Contenido del Certificado:
-
 ========================================================================
 CERTIFICADO DE COMPLIANCE Y AUDITORÍA DE RED
 ========================================================================
@@ -28,4 +23,3 @@ Certifico que el enrutador corporativo cumple con el 100% de las
 políticas de aprovisionamiento seguro y queda autorizado para su 
 despliegue en el entorno de producción.
 ========================================================================
-
