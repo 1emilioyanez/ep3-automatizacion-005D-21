@@ -1,0 +1,17 @@
+0it [00:00, ?it/s]1it [00:00, 137.35it/s]+==============================================================================+
+| Genie Diff Summary between directories                                       |
+| ../fase1_baseline/evidencias/baseline_005D-21/ and evidencias/post_005D-21/  |
++==============================================================================+
+|  File: interface_iosxe_CSR1kv_ops.txt                                        |
+|   - Diff can be found at                                                     |
+| evidencias/diff_005D-21/diff_interface_iosxe_CSR1kv_ops.txt                  |
+|------------------------------------------------------------------------------|
+|  File: platform_iosxe_CSR1kv_ops.txt                                         |
+|   - Identical                                                                |
+|------------------------------------------------------------------------------|
+|  File: routing_iosxe_CSR1kv_ops.txt                                          |
+|   - Diff can be found at                                                     |
+| evidencias/diff_005D-21/diff_routing_iosxe_CSR1kv_ops.txt                    |
+|------------------------------------------------------------------------------|
+
+
