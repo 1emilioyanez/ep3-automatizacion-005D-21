@@ -35,8 +35,5 @@ El presente proyecto detalla la implementación automatizada y la auditoría de 
 | Sincronización Temporal (NTP) | NETCONF / RESTCONF | [OK] | CONFORME |
 | Segmento Loopback 10 (IP / Mask) | NETCONF / RESTCONF | [OK] | CONFORME |
 
-#### Evidencia 2: Idempotencia en el Aprovisionamiento (Fase 2 - Ansible Playbook)
-<img width="599" height="36" alt="image" src="https://github.com/user-attachments/assets/dc72952b-0331-4652-91c0-11fbfa8e1b00" />
-
 ## 7. Conclusiones
 La automatización del ciclo de vida del dispositivo concluyó de manera exitosa. Se verificó con un 100% de efectividad la conformidad del equipo bajo dos protocolos programáticos independientes, quedando el enrutador validado de forma transparente y disponible para pasar de forma segura a operaciones de producción.
